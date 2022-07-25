@@ -2,7 +2,7 @@
 ## Here is the Output of the 10 Projests
 
 #### 1. [Simple Calculator](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/1-Simple_Calculator/)
-#### 2. [Digital Clock]()
+#### 2. [Digital Clock](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/2-Digital_Clock/)
 #### 3. [To Do List]()
 #### 4. [Digital Clock]()
 #### 5. [To Do List]()
