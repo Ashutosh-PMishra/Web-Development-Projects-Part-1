@@ -6,7 +6,7 @@
 #### 3. [To Do List](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/3-To_Do_List/)
 #### 4. [Rock Paper and Scissors](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/4-Rock_Paper_Scissors/)
 #### 5. [Social Media Icons](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/5-Social_Media_Icons/)
-#### 6. [Star Rating]()
+#### 6. [Star Rating](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/6-Star_Rating/)
 #### 7. [Stopwatch]()
 #### 8. [Profile Card]()
 #### 9. [Random Color Generator]()
