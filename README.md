@@ -10,6 +10,6 @@
 #### 7. [Stopwatch](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/7-Stopwatch/)
 #### 8. [Profile Card](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/8-Profile_Card/)
 #### 9. [Random Color Generator](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/9-Random_Color_Generator/)
-#### 10. [Simple Login Form]()
+#### 10. [Simple Login Form](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/10-Simple_Login_Form/)
 
 # [Have a Look Here](https://www.youtube.com/c/SimplifiedLearner)
