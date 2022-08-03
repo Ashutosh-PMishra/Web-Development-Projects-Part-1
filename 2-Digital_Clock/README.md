@@ -1,6 +1,6 @@
-# Web-Development-Projects-Part-1
+# Web Development Projects Part 1
 
-## 2-Digital_Clock
+## 2. Digital Clock
 
 ## To view 3D Demo👉 [Click Here](https://ashutosh-pmishra.github.io/Web-Development-Projects-Part-1/2-Digital_Clock/)
 
